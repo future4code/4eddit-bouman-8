@@ -2,7 +2,7 @@
  
 - Wireframe utilizado: https://www.figma.com/file/hpuFd1DcQwelLU1UztTsae/4eddit?node-id=0%3A1
 
-- Acesse o projeto aqui: http://thin-flesh.surge.sh 
+- Acesse o projeto aqui: http://foureddit.surge.sh/
  
 ### Como contribuir:
 
