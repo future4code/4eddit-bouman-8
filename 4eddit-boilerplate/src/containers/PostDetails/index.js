@@ -75,11 +75,12 @@ class PostsDetails extends Component {
 
 
   render() {
-    const { postDetails, votePost, voteComment } = this.props
+    const { postDetails, votePost, goToLoginPage } = this.props
 
     return (
       <div>
-        <Header/>
+        <Header onClick={goToLoginPage}></Header>
+        
         { this.handleLoadingPage() ? <LoadingPage/> :
         <PostDetailsContainer>
           <PostDetailsCard

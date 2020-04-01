@@ -58,6 +58,7 @@ class RegisterPage extends Component {
 
   render() {
     const { goToLoginPage } = this.props
+    
     return (
       <div>
         <Header onClick={goToLoginPage}></Header>
